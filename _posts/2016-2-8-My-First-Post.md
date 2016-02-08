@@ -1,8 +1,10 @@
 ---
 layout: post
-title: This is my first Blog post.
+title: The fact about writing
 ---
 
-Writing is intimidating.
+Writing is scary.
 
-Not because they are difficult to make, or difficult to write. Blogs are intimidating because they make you ask yourself "Why would anyone care what I have to say?"
+Writing isn't scary because it is hard. (You've written your name loads of times, after all!)
+
+Writing is scary because it makes you ask yourself "Why would anyone care what I have to say?"
